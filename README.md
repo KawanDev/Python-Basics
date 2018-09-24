@@ -1,2 +1,2 @@
 # Python-Basics
-A very basic things for Python beginners
+A very basic project for Python beginners
