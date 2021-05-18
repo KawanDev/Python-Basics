@@ -7,8 +7,8 @@ while True:
     else:
         break
 if character_age >= 18:
-    print(f"Okay so you are {character_age} you most pay 150$")
+    print(f"Okay so you are {character_age} you must pay 150$")
 else:
-    print(f"Okay so you are {character_age} you most pay 100$")
+    print(f"Okay so you are {character_age} you must pay 100$")
     
 #note this code is for Python 3.6
